@@ -1,4 +1,4 @@
-import { addTodo, setTodos} from '../../actions/todo.js';
+import { addTodo, setTodos } from '../../actions/todos.js';
 import todos from '../fixtures/todos';
 
 describe('Todo Action object', () => {
