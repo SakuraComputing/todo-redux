@@ -15,6 +15,6 @@ describe('landing page component', () => {
     });
     it('should display h1 text', () => {
         const headerText = wrapper.find('h1').text();
-        expect(headerText).toEqual('Late Rooms');
+        expect(headerText).toEqual('TODO List');
     })
 });
